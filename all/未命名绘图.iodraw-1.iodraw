@@ -22,6 +22,9 @@
         <mxCell id="upgGomcSB7suT7FwiVl--3" value="客户端层" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="upgGomcSB7suT7FwiVl--8">
           <mxGeometry x="25.129870129870127" y="10" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="upgGomcSB7suT7FwiVl--35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--8">
+          <mxGeometry x="160" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="260" width="810" height="80" as="geometry" />
         </mxCell>
