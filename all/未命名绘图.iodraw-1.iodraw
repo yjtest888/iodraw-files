@@ -28,13 +28,13 @@
         <mxCell id="upgGomcSB7suT7FwiVl--36" value="移动端app" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="upgGomcSB7suT7FwiVl--8">
           <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--9" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+        <mxCell id="upgGomcSB7suT7FwiVl--9" value="" style="group;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="250" width="810" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--10" value="" style="group" vertex="1" connectable="0" parent="upgGomcSB7suT7FwiVl--9">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--11" value="" style="group" vertex="1" connectable="0" parent="upgGomcSB7suT7FwiVl--10">
+        <mxCell id="upgGomcSB7suT7FwiVl--11" value="" style="group;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" connectable="0" parent="upgGomcSB7suT7FwiVl--10">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
