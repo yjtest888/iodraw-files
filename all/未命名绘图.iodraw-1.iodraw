@@ -79,7 +79,7 @@
         <mxCell id="upgGomcSB7suT7FwiVl--21" value="" style="group" vertex="1" connectable="0" parent="upgGomcSB7suT7FwiVl--20">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--21">
+        <mxCell id="upgGomcSB7suT7FwiVl--22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="upgGomcSB7suT7FwiVl--21">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--23" value="业务逻辑层" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="upgGomcSB7suT7FwiVl--21">
