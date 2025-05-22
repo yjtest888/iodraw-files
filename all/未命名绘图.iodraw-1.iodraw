@@ -100,10 +100,10 @@
         <mxCell id="upgGomcSB7suT7FwiVl--28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="upgGomcSB7suT7FwiVl--27">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--29" value="数据访问层" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="upgGomcSB7suT7FwiVl--27">
+        <mxCell id="upgGomcSB7suT7FwiVl--29" value="数据访问层" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="upgGomcSB7suT7FwiVl--27">
           <mxGeometry x="25.129870129870127" y="10" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--42" value="ORM工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--27">
+        <mxCell id="upgGomcSB7suT7FwiVl--42" value="ORM工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="upgGomcSB7suT7FwiVl--27">
           <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--30" value="" style="group" vertex="1" connectable="0" parent="1">
