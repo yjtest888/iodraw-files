@@ -86,7 +86,7 @@
           <mxGeometry x="25.129870129870127" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--41" value="逻辑函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--21">
-          <mxGeometry x="160" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--25" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="530" width="810" height="80" as="geometry" />
