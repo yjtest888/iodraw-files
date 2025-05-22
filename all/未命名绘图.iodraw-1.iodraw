@@ -49,6 +49,9 @@
         <mxCell id="upgGomcSB7suT7FwiVl--38" value="vue.js" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
           <mxGeometry x="380" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="upgGomcSB7suT7FwiVl--39" value="uView UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
+          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--14" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="220" y="350" width="810" height="80" as="geometry" />
         </mxCell>
@@ -108,9 +111,6 @@
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--34" value="数据层" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="upgGomcSB7suT7FwiVl--32">
           <mxGeometry x="25.129870129870127" y="10" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--39" value="web浏览器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
