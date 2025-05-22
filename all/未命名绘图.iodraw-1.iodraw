@@ -37,10 +37,10 @@
         <mxCell id="upgGomcSB7suT7FwiVl--11" value="" style="group" vertex="1" connectable="0" parent="upgGomcSB7suT7FwiVl--10">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
+        <mxCell id="upgGomcSB7suT7FwiVl--12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
           <mxGeometry width="810" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="upgGomcSB7suT7FwiVl--13" value="前端层" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
+        <mxCell id="upgGomcSB7suT7FwiVl--13" value="前端层" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
           <mxGeometry x="25.129870129870127" y="10" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="upgGomcSB7suT7FwiVl--37" value="uni-app&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22web%E6%B5%8F%E8%A7%88%E5%99%A8%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22180%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="upgGomcSB7suT7FwiVl--11">
